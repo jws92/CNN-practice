@@ -1,6 +1,7 @@
 # CNN-practice
 I just implemented CNN at my disposal for practice.
 This model just aims to classify CIFAR-10 dataset.
+This model achieved 92.29% validation accuracy.
 
 
 # System environments
