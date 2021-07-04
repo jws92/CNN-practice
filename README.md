@@ -1,5 +1,5 @@
 # CNN-practice
-I just implement CNN at my disposal for practice.
+I just implemented CNN at my disposal for practice.
 
 
 # System environments
