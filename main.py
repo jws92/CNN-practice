@@ -98,8 +98,8 @@ if __name__ == "__main__":
 
   best_acc = 0.0
 
-  save_weights = "myCNN_2_last.pth"
-  save_best_weights = "myCNN_2_best.pth"
+  save_weights = "myCNN_last.pth"
+  save_best_weights = "myCNN_best.pth"
 
   save_path = "./weights"
   os.makedirs(save_path, exist_ok=True)
