@@ -1,5 +1,6 @@
 # CNN-practice
 I just implemented CNN at my disposal for practice.
+This model just aims to classify CIFAR-10 dataset.
 
 
 # System environments
